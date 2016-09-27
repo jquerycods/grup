@@ -1,0 +1,1 @@
+﻿SpilGames(["SWP","DOMEvent"],function(a,b){a.init("favourite_menu");b.add(".pw-register-trigger","click",function(c){b.preventDefault(c);a.System.emit("popup.register.open")})});
